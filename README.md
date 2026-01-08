@@ -1,5 +1,5 @@
 # Sales Business Analytics Project
-
+![Sales Dashboard](Images/dashboard_preview.png)
 ## 📌 Project Overview
 This project analyzes the sales performance of a retail superstore using historical transaction data. The goal is to answer key business questions related to revenue, profitability, product performance, customer segments, regions, and the impact of discounts.
 
